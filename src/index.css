@@ -1,0 +1,15 @@
+* {
+    overflow-x: hidden;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+._container_k9mas_1.container ._wrapper_k9mas_11 {
+    height: 100% !important;
+    background-color: red !important;
+}

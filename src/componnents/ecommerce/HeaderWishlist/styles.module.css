@@ -1,0 +1,26 @@
+.container {
+    position: relative;
+    cursor: pointer;
+    align-self: flex-end;
+    align-self: flex-end;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-right: 1px solid black;
+    padding-right: 10px;
+    margin-right: 10px;
+  }
+  
+  
+  .totalNum {
+    background-color: #0dcaf0;
+    height: 22px;
+    width: 22px;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid;
+    position: absolute;
+    top: -19px;
+    right: 10px;
+    font-size: 12px;
+  }
